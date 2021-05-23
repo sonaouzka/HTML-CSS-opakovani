@@ -8,10 +8,10 @@ Udělej si fork tohoto repozitáře a jak už to umíš, naklonuj si ho k sobě.
 
 ## Seznámení
 
-Otevři si index.html a prohlédni si stránku v devtools. Zkus se na ní podívat v různých šířkách.
+Otevři si ```index.html``` a prohlédni si stránku v devtools. Zkus se na ní podívat v různých šířkách.
 Podívej se na HTML a CSS. Ve složce `style-basis.css` je už nachystané nějaké stylování. Ty své styly piš do `style.css`. V HTML není potřeba nic upravovat, mazat, ani přidávat, pouze se podívej na jeho strukturu!
 Ve složce result se podívej na obrázky výsledné stránky v různých šířkách.
-Začneme pěkně mobile first.
+Začneme pěkně mobile first, doporučuji nejdřív si nastylovat stránku pro mobil, pak pokračovat na tablet, laptop a nakonec desktop. 
 
 ## Navigace
 
@@ -19,7 +19,7 @@ Podívej se do hlavičky. Nastyluj ji tak, aby její šířka zabírala procenta
 
 ## Galerie
 
-Všimni si, že fotky se nevejdou do svého kontejneru a přelévají se ven. Zařiď, aby se fotky daly scrollovat do strany, pokud se nevejdou.
+Všimni si, že fotky se nevejdou do svého kontejneru a přelévají se ven. Zařiď, aby se fotky daly scrollovat do strany, pokud se nevejdou (nápověda opět v results).
 
 ## Událost v kalendáři
 
