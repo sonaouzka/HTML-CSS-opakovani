@@ -21,7 +21,7 @@ Podívej se do hlavičky. Nastyluj ji tak, aby její šířka zabírala procenta
 
 ### Galerie
 
-Všimni si, že fotky se nevejdou do svého kontejneru a přelévají se ven. Zařiď, aby se fotky daly scrollovat do strany, pokud se nevejdou (nápověda opět v results).
+Všimni si, že fotky se nevejdou do svého kontejneru a přelévají se ven. Zařiď, aby se fotky daly scrollovat do strany, pokud se nevejdou (nápověda opět v result).
 
 ### Událost v kalendáři
 
