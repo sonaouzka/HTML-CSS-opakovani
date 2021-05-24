@@ -13,7 +13,7 @@ Podívej se na HTML a CSS. Ve složce `style-basis.css` je už nachystané něja
 Ve složce result se podívej na obrázky výsledné stránky v různých šířkách.
 
 ## Stylování 
-Začneme pěkně mobile first, doporučuji nejdřív si nastylovat stránku pro mobil, pak pokračovat na tablet, laptop a nakonec desktop. 
+Začneme pěkně mobile first, doporučuji nejdřív ve stylování psát styly pro mobil, pak pokračovat na tablet, laptop a nakonec desktop. 
 
 ### Navigace
 
@@ -36,10 +36,10 @@ Podívej se na obsah divu `dashboard`. Máme v něm upomínky, citát, fotky, hu
 V poslední sekci naší stránky vidíme seznam zajímavých článků.
 Podívej se, jak kartičky vypadají na různých šířkách a nastyluj je podle zadání. Všimni si, že obrázek je vidět až od určité šířky.
 
-## Bonus
+### Bonus
 
-Zamysli se, jak bys stránku oživila. Co by se mohlo stát při kliknutí na jednotlivé elementy? Kde by se mohly brát data? Jak bysis stránku rozvrhla, pokud bys ji psala v reactu?
+Zamysli se, jak bys stránku oživila. Co by se mohlo stát při kliknutí na jednotlivé elementy? Kde by se mohly brát data? Jak bysis stránku navrhla, pokud bys ji psala v reactu?
 
-## Nohy nahoru
+## Skvělá práce!
 
 Dej si čaj (anebo vínko ;)) a pročti si jednotlivé články, na které jsou na stránce odkazy.
