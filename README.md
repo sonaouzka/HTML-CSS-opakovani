@@ -25,7 +25,7 @@ Všimni si, že fotky se nevejdou do svého kontejneru a přelévají se ven. Za
 
 ### Událost v kalendáři
 
-Tečka, která nám značí událost v kalendáři je momentálně špatně napozicovaná. Napozicuj ji tak, aby byla 10px od horního okraje a horizontálně přesně v půlce svého rodiče.
+Tečka, která nám značí událost v kalendáři není napozicovaná. Napozicuj ji tak, aby byla 10px od horního okraje a horizontálně přesně v půlce svého rodiče.
 
 ### Zalamování dashboardu
 
@@ -34,7 +34,7 @@ Podívej se na obsah divu `dashboard`. Máme v něm upomínky, citát, fotky, hu
 ### Články
 
 V poslední sekci naší stránky vidíme seznam zajímavých článků.
-Podívej se, jak kartičky vypadají na různých šířkách a nastyluj je podle zadání. Všimni si, že obrázek je vidět až od určité šířky.
+Podívej se, jak rozložení kartiček vypadá na různých šířkách a nastyluj je podle zadání. Všimni si, že obrázek je vidět až od určité šířky.
 
 ### Bonus
 
